@@ -1,10 +1,8 @@
-#React-Webpack2-AutoRefresh-Template
+# React-Webpack2-AutoRefresh-Template
+Webpack 2 configuration template in React, to achieve auto-refresh in web browser when you develop it 实现浏览器自动刷新的项目配置模板
 
-Webpack 2 配置 React 实现浏览器自动刷新的项目配置模板
-
-运行方法
-
-cd React-Webpack2-HMR-Template
-npm install
-npm start
-修改 index.js 文件代码，浏览器自动刷新
+# How to use it?
+* cd React-Webpack2-AutoRefresh-Template
+* npm install (install all the package based on Package.json)
+* npm start
+* modify index.js if you need
