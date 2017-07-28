@@ -1,5 +1,6 @@
 # React-Webpack2-AutoRefresh-Template
-Webpack 2 configuration template in React, to achieve auto-refresh in web browser when you develop it 实现浏览器自动刷新的项目配置模板
+Webpack 2 configuration template in React.
+To achieve auto-refresh in web browser when you develop it.
 
 # How to use it?
 * cd React-Webpack2-AutoRefresh-Template
