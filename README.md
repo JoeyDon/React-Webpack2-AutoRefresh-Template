@@ -9,9 +9,9 @@ To achieve auto-refresh in web browser when you develop it.
 * modify index.js if you need
 
 # Packages integreted in this Template.
-{
-  "name": "003",
-  "version": "1.0.0",
+{  
+  "name": "003",  
+  "version": "1.0.0",  
   "description": "",
   "main": "index.js",
   "scripts": {
